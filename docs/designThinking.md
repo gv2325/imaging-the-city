@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Design Thinking
 layout: home
 nav_order: 2
 ---
